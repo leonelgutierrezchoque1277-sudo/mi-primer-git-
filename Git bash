@@ -1,2 +1,7 @@
 GIt init
 Git status 
+git config --global user.name "Leonel Gutierrez"
+git config --global user.email "std.leoneledwin gutierrez cho ufra @u.com"
+git add README.md
+git status
+git commit -m "Version 1: Proyecto inicial"
